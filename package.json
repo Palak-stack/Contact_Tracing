@@ -20,15 +20,8 @@
     "prettier-plugin-apex": "^2.2.6"
   },
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/choudharymanish8585/contact-tracing.git"
-  },
+ 
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/choudharymanish8585/contact-tracing/issues"
-  },
-  "homepage": "https://github.com/choudharymanish8585/contact-tracing#readme"
+  "license": "ISC"
 }

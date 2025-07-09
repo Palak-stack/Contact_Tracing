@@ -2,8 +2,6 @@
 
 Sample Contact Tracing app built on Salesforce Platform.
 
-##### It's impossible to highlight all offering of this course here, but below are some major modules:
-
 - Web Application Architecture
 - Programming Fundamentals
 - Apex Development
